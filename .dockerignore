@@ -1,0 +1,14 @@
+**/bin
+**/obj
+**/node_modules
+**/dist
+**/*.tsbuildinfo
+orders.db
+orders.db-shm
+orders.db-wal
+.git
+.idea
+.vs
+.vscode
+work
+outputs

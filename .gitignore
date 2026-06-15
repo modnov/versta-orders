@@ -1,0 +1,15 @@
+bin/
+obj/
+node_modules/
+dist/
+*.tsbuildinfo
+orders.db
+orders.db-shm
+orders.db-wal
+.vs/
+.vscode/
+.idea/
+
+# Локальные рабочие артефакты, не часть решения
+work/
+outputs/

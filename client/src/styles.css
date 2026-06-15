@@ -1,0 +1,48 @@
+main {
+  max-width: 640px;
+  margin: 24px auto;
+  padding: 0 16px;
+  font-family: system-ui, sans-serif;
+  color: #111;
+}
+
+form {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 32px;
+}
+
+label {
+  display: grid;
+  gap: 4px;
+}
+
+input,
+button {
+  font: inherit;
+  padding: 8px;
+}
+
+button {
+  cursor: pointer;
+}
+
+.order {
+  display: block;
+  width: 100%;
+  text-align: left;
+  margin-bottom: 8px;
+}
+
+.error {
+  color: #b91c1c;
+}
+
+dt {
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+dd {
+  margin: 0;
+}
